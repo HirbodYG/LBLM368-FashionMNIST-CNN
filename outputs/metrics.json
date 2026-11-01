@@ -1,0 +1,27 @@
+{
+  "CNN (bu proje)": {
+    "accuracy": 0.9336,
+    "precision_macro": 0.9336866152198071,
+    "recall_macro": 0.9336,
+    "f1_macro": 0.9334273090879697,
+    "train_time_s": 777.4,
+    "params": 871530,
+    "epochs_run": 15
+  },
+  "Lojistik Regresyon": {
+    "accuracy": 0.8432,
+    "precision_macro": 0.8421260671604307,
+    "recall_macro": 0.8432000000000001,
+    "f1_macro": 0.8423163528014651,
+    "train_time_s": 44.6,
+    "params": 7850
+  },
+  "MLP (2 gizli katman)": {
+    "accuracy": 0.8946,
+    "precision_macro": 0.8936988891288807,
+    "recall_macro": 0.8946,
+    "f1_macro": 0.8932931241376917,
+    "train_time_s": 29.2,
+    "params": 235146
+  }
+}
